@@ -1,4 +1,4 @@
-# helloWord Assignment
+# helloWorld Assignment
 This repo contains deployment instruction, required helm chart, and platform deployment code to simply deploy a helloWord web.
 
 ## Assumption
